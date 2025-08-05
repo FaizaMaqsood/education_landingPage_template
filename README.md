@@ -36,7 +36,7 @@ A modern, responsive education landing page built using **HTML5** and **Bootstra
 
    ```bash
    git clone https://github.com/FaizaMaqsood/education_landingPage_template.git
-   '''
+   
 2. Open the project folder and launch index.html in your browser:
 
   - Double-click the file
@@ -46,4 +46,5 @@ A modern, responsive education landing page built using **HTML5** and **Bootstra
 
 ## Author
 Faiza Maqsood
-GitHub Profile
+[GitHub Profile](https://github.com/FaizaMaqsood)
+
